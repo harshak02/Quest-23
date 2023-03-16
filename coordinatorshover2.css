@@ -4,8 +4,6 @@
     position: relative;
     z-index: 1;
     transition: all .5s;
-    height:300px;
-    width:240px;
 }
 .box:hover{ box-shadow: 3px 3px 5px #999; }
 .box:before,
